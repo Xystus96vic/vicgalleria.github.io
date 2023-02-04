@@ -2,16 +2,16 @@ function welcome(){
   let name = prompt('Hi, there what is your name?');
   
   switch (name) {
-    case "Naitoti":
-      function toti() {alert('Hi there Totti, hope you like this website. Like how would you rate it? Feedback send it to one of my socialmedia platforms listed on the page. -This message has been programed to only be seen by Naitoti.- Hahaha :-)');}
+    case "Xystus":
+      function toti() {alert('Hi there Zes, hope you like this website. Like how would you rate it? Feedback send it to one of my socialmedia platforms listed on the page. -This message has been programed to only be seen by Xystus.- Hahaha :-)');}
       break;
-   case "naitoti":
+   case "xystus ":
       toti();
       break;
-    case "Naitoti ":
+    case "Xystus ":
       toti();
       break;
-    case "naitoti ":
+    case "xystus":
       toti();
     break;
   }
