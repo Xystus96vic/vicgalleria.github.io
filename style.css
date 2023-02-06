@@ -141,7 +141,7 @@ body {
          
          /* make the lightbox occupy the entire page */
          position: fixed;
-         top: -100%; /* hide the lightbox above the top edge */
+         top: -1000%; /* hide the lightbox above the top edge */
          left: 0;
          width: 100%;
          height: 100%;
